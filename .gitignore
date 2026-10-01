@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.mp4
+*.mkv
+*.webm
+*.mov
+*.clean.json
+.cache/
